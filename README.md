@@ -206,7 +206,7 @@ Accept: application/json
 
 ## 🧑‍💻 Author
 
-**Developer:** Nvd063
+**Developer:** Naveed Ahmed
 **Purpose:** Learning + Portfolio + Interview Preparation
 
 ---

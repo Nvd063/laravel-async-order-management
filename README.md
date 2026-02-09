@@ -4,8 +4,6 @@ A **real-world, production-style Laravel project** demonstrating modern backend 
 
 This project is built step-by-step with a clean and scalable structure, suitable for **learning, portfolio showcase, and interview preparation**.
 
----
-
 ## 🚀 Features
 
 * 🔐 **Authentication (Laravel Sanctum)**

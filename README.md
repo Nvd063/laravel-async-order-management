@@ -218,4 +218,4 @@ Feel free to fork, improve, or suggest enhancements.
 ## 📜 License
 
 This project is open-source and free to use for learning purposes.
-<img width="1433" height="1396" alt="screencapture-mail-google-mail-u-0-2026-02-09-15_11_09" src="https://github.com/user-attachments/assets/e89062b6-ddad-41c3-b977-ec10de75bf3c" />
+<img width="1920" height="2103" alt="screencapture-mail-google-mail-u-0-2026-02-10-09_57_38" src="https://github.com/user-attachments/assets/9a657f5a-9a37-4027-a789-f4551afd08cc" />
